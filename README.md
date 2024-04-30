@@ -9,9 +9,9 @@ Was wäre ein geeignetes Projekt für diese LP5?
 ✍️ Heute habe ich... (50-100 Wörter)
 
 30.4.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+[ ] Ich Schnuppere mich mit Visual Studio Pro um eine Website zu erstellen
+[ ] Ich schaue paar Videos um mich mit programmieren zu befassen
+[ ] Danach befasse ich mich dem designen im Visual Studio 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
