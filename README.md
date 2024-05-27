@@ -28,3 +28,13 @@ Ich stehe Zurzeit mit den Noten gut in Informatik daher habe ich mich entschiede
 - [ ] Danach beginne ich damit, eine HTML-Website zu erstellen, die ein Mannschaftsfoto sowie eine "Über uns"-Seite enthält. Zudem präsentiere ich darauf die Sponsoren unseres Vereins.
 - [ ] Anschließend widme ich mich dem Design mithilfe von CSS. Die Website soll überwiegend in Blautönen gehalten sein, da das Logo blau-weiß ist.
 - [ ] Danach versuche ich, eine Unterseite zu erstellen, auf der detailliertere Informationen zum Verein zu finden sind wie zb für Statistiken usw.
+
+✍️ Da ich da Krank war, habe ich leider nicht daran weitergearbeitet.Deswegen arbeite ich nächste Woche an den Arbeitspaketen weiter
+
+## 14.05.2024
+- [x] Da ich von Beginn an daran interessiert bin, eine Fußball-Website zu erstellen, plane ich zunächst grob und schreibe eine "Über uns"-Seite. Zusätzlich erstelle ich eine Datei, die alle Fotos der Mannschaft enthält und dokumentiere meinen Vorgehensplan dabei.
+- [x] Danach beginne ich damit, eine HTML-Website zu erstellen, die ein Mannschaftsfoto sowie eine "Über uns"-Seite enthält. Zudem präsentiere ich darauf die Sponsoren unseres Vereins.
+- [x] Anschließend widme ich mich dem Design mithilfe von CSS. Die Website soll überwiegend in Blautönen gehalten sein, da das Logo blau-weiß ist.
+- [x] Danach versuche ich, eine Unterseite zu erstellen, auf der detailliertere Informationen zum Verein zu finden sind wie zb für Statistiken usw.
+
+✍️ Heute habe ich mit der Planung und Erstellung einer Fußball-Website begonnen. Ich habe eine "Über uns"-Seite geschrieben und eine Datei mit Mannschaftsfotos erstellt. Danach habe ich eine HTML-Seite mit einem Mannschaftsfoto und den Sponsoren des Vereins erstellt. Mit CSS habe ich die Seite in Blautönen gestaltet. Zum Schluss habe ich eine Unterseite mit detaillierten Vereinsinformationen erstellt. Da ich nächste Woche die Nachprüfung schreibe, arbeite ich erst in 2 Wochen an dem Arbeitspaket weiter.
