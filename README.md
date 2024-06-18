@@ -72,9 +72,14 @@ Ich stehe Zurzeit mit den Noten gut in Informatik daher habe ich mich entschiede
 ✍️ Heute habe ich die gesamte Website auf Fehler überprüft und notwendige Korrekturen vorgenommen. Ich habe Usability-Tests durchgeführt, um sicherzustellen, dass die Website benutzerfreundlich ist. Außerdem habe ich SEO-Techniken eingebunden, um die Sichtbarkeit der Website in Suchmaschinen zu verbessern. Zum Abschluss habe ich die Dokumentation fertiggestellt und einen Abschlussbericht über das Projekt erstellt.
 
 ## 18.06.2024
-- [ ] Vorbereitung der Präsentation der Website vor der Klasse oder einem Gremium.
-- [ ] Erstellung eines Leitfadens für die zukünftige Pflege und Aktualisierung der Website.
-- [ ] Letzte Überarbeitung basierend auf Feedback von Lehrern oder Peers.
-- [ ] Veröffentlichung der Website und Teilen des Links mit der Mannschaft und anderen Interessierten.
+- [x] Vorbereitung der Präsentation der Website vor der Klasse oder einem Gremium.
+- [x] Erstellung eines Leitfadens für die zukünftige Pflege und Aktualisierung der Website.
+- [x] Letzte Überarbeitung basierend auf Feedback von Lehrern oder Peers.
+- [x] Veröffentlichung der Website und Teilen des Links mit der Mannschaft und anderen Interessierten.
 
+✍️ Heute habe ich die Präsentation der Website vorbereitet, die ich vor der Klasse oder einem Gremium halten werde. Ich habe einen Leitfaden für die zukünftige Pflege und Aktualisierung der Website erstellt. Basierend auf Feedback von Lehrern und Peers habe ich letzte Überarbeitungen vorgenommen. Schließlich habe ich die Website veröffentlicht und den Link mit der Mannschaft und anderen Interessierten geteilt.
 
+## 25.06.2024
+- [ ] Reflexion über das gesamte Projekt und Identifikation von Lernpunkten.
+- [ ] Sammeln von Feedback von Benutzern und Planen von zukünftigen Verbesserungen.
+- [ ] Schreiben eines abschließenden Berichts über die Projektarbeit und das Erreichen der gesetzten Ziele.
